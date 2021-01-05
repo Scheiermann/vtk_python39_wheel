@@ -1,4 +1,4 @@
-# vtk_python39_build
+# vtk_python39_wheel
 As vtk9 wheels are not provided for python3.9 officially, I builded them to make it easier to install.
 
 This is NOT my own work and all rights belong to VTK.
